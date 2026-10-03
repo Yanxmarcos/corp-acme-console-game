@@ -1,0 +1,26 @@
+# Archivos generados al compilar (Dev-C++ / MinGW)
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.res
+*.pdb
+*.ilk
+
+# Archivos locales de los IDE
+*.layout
+*.dev
+*.depend
+
+# Recursos de audio: no se versionan por defecto.
+# Son ~156 MiB y pueden estar sujetos a derechos de autor.
+*.wav
+
+# Archivos temporales del sistema y editores
+*.tmp
+*.bak
+*~
+.vs/
+.vscode/
